@@ -1,4 +1,4 @@
-module github.com/manuelOsterloh/dM-postHog-cloner
+module github.com/Senseering/dm-postHog-cloner
 
 go 1.23.5
 
